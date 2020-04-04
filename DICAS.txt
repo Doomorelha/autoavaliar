@@ -1,0 +1,4 @@
+em algumas linhas da coluna N, fora apagado o tempo que faltava para acabar o anúncio, e no lugar foi inserido a URL.
+
+PRECISO aprender a substituir o ENTER por ESPAÇO = SOLUÇÃO: ALT+010 no find and replace
+
